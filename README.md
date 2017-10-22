@@ -1,2 +1,2 @@
 # neural_network_ocr
-an application of ocr using neural network, python
+An implementation applying CNN to MNIST dataset, using tensorflow
